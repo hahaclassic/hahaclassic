@@ -11,9 +11,5 @@
 - Golang backend developer
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hahaclassic&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff)
-
----
-### 📫 Contact
+### 📫 Alternative contact
 - Email: [gavrilyukvlad221@gmail.com](mailto:gavrilyukvlad221@gmail.com)
-- Telegram: [@wflyyyy](https://t.me/wflyyyy)
