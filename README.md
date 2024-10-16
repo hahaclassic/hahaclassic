@@ -1,15 +1,8 @@
-### 🎓 Education
-- I study Software Engineering at Bauman Moscow State Technical University
+### Education
+> **Bauman Moscow State Technical University** | Bachelor of Software Engineering
 
-### 💼 Work Experience
-- Golang backend developer
+### Work Experience
+> **WB Tech Wildberries** | Golang backend developer (03/2024 - 10/2024)
 
 ---
-### 📫 Contacts
-- Email: [gavrilyuk.v11@gmail.com](mailto:gavrilyuk.v11@gmail.com)
-- Telegram: [wflyyyy](https://t.me/wflyyyy)
-
---- 
-### Other
-
-- Leetcode: [haha_classic](https://leetcode.com/haha_classic/)
+[email](mailto:gavrilyuk.v11@gmail.com) | [telegram](https://t.me/wflyyyy) | [linkedin](https://www.linkedin.com/in/vladislav-gavrilyuk-90a3a5333/) | [leetcode](https://leetcode.com/haha_classic/)
