@@ -1,5 +1,5 @@
 ### Education
-> **Bauman Moscow State Technical University** | Bachelor of Software Engineering
+> **Bauman Moscow State Technical University** | Bachelor of Software Engineering (2022-2026)
 
 ### Work Experience
 > **WB Tech Wildberries** | Golang backend developer (03/2024 - 10/2024)
