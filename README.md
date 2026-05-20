@@ -1,5 +1,5 @@
-> Software Engineer at [**ivi**](https://www.ivi.ru). Previously at [Wildberries](https://www.wildberries.ru).
- 
+> Software Engineer at [**ivi**](https://www.ivi.ru), previously at [Wildberries](https://www.wildberries.ru).
+
 **Education**
 
 > **Bauman Moscow State Technical University** | Bachelor of Software Engineering (2022-2026)
